@@ -1,2 +1,2 @@
-# aci
-a.c.i. site published from mobirise.
+# American Citizens Institute
+A website by Michael Kitterman
